@@ -66,7 +66,7 @@ function HOME()
   }, nil, [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ⭐⭐⭐⭐VVIP PUBGMS 0.8.3⭐⭐⭐⭐
-MODED BY : @KopralDjonoPUBGMC
+ ⭐️MODED BY : @KopralDjonoPUBGMC⭐️
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖]])
   if HM == 1 then
     WnC()
