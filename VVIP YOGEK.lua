@@ -1,9 +1,9 @@
 gg.toast(os.date([[
 Today: %Y/%m/%d Time: %H:%M:%S
 www.youtube.com/c/PUBGMCorner]]))
-gg.alert("⭐PUBG Mobile Script 0.8.3 VVIP⭐")
+gg.alert("⭐ PUBG Mobile Script 0.8.3 VVIP ⭐")
 
-gg.alert("⭐VVIP ID CHECK⭐️")
+gg.alert("⭐ VVIP ID CHECK ⭐️")
 pass = "B6056"
 prompt = gg.prompt({
   "\240\159\148\142ENTER VVIP ID"
@@ -51,12 +51,12 @@ else
 end
 HOME = 1
 
-gg.alert(" ⭕Imei 1 : 862589030271877!⭕ ")
-gg.alert(" ⭕Imei 2 : 862589030271869!⭕ ")
+gg.alert(" ⭕ Imei 1 : 862589030271877! ⭕ ")
+gg.alert(" ⭕ Imei 2 : 862589030271869! ⭕ ")
 
-gg.alert("⭐DEVICE VERIVIED VVIP MEMBER⭐")
+gg.alert("⭐ DEVICE VERIVIED VVIP MEMBER ⭐")
 
-gg.alert("🌟️📣 WELCOME VVIP IamYogekBARBAR 📣🌟️")
+gg.alert("📣 WELCOME VVIP IamYogekBARBAR 📣")
 
 HOME = 1
 function HOME()
@@ -71,7 +71,7 @@ function HOME()
   }, nil, [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ⭐⭐⭐⭐VVIP PUBGMS 0.8.3⭐⭐⭐⭐
-  ⭐️VVIP MEMBER IamYogekBARBAR⭐️
+   ⭐️VVIP MEMBER IamYogekBARBAR⭐️
  ⭐️MODED BY : @KopralDjonoPUBGMC⭐️
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖]])
   if HM == 1 then
