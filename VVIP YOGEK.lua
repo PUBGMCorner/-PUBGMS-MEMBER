@@ -61,18 +61,18 @@ gg.alert("📣 WELCOME VVIP IamYogekBARBAR 📣")
 HOME = 1
 function HOME()
     HM = gg.choice({
-    "⏺️WALLHACK & BODY COLOR⏺️",
-    "⏺️LOBBY HACK MENU⏺️",
-    "⏺️IN GAME MENU⏺️",
+    "⏺️ WALLHACK & BODY COLOR ⏺️",
+    "⏺️ LOBBY HACK MENU ⏺️",
+    "⏺️ IN GAME MENU ⏺️",
     "⭕ ONE CLICK LANDED ⭕",
-    "🌟️Info & Update Log🌟️",
-    "❎EXIT SCRIPT❎",
+    "🌟️ Info & Update Log 🌟️",
+    "❎ EXIT SCRIPT ❎",
     "☎️ CONTACT US ☎️"
   }, nil, [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-⭐⭐⭐⭐VVIP PUBGMS 0.8.3⭐⭐⭐⭐
-   ⭐️VVIP MEMBER IamYogekBARBAR⭐️
- ⭐️MODED BY : @KopralDjonoPUBGMC⭐️
+  ⭐⭐⭐⭐VVIP PUBGMS 0.8.3⭐⭐⭐⭐
+     ⭐️VVIP MEMBER IamYogekBARBAR⭐️
+   ⭐️MODED BY : @KopralDjonoPUBGMC⭐️
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖]])
   if HM == 1 then
     WnC()
