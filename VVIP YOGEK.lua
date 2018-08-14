@@ -51,7 +51,8 @@ else
 end
 HOME = 1
 
-gg.alert("⭕Imei 1 : 862589030271877!⭕/n /n⭕Imei 2 : 862589030271869⭕")
+gg.alert("⭕Imei 1 : 862589030271877!⭕
+	  ⭕Imei 2 : 862589030271869⭕")
 
 gg.alert("⭐DEVICE VERIVIED VVIP MEMBER⭐")
 
