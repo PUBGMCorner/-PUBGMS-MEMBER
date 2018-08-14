@@ -26,8 +26,6 @@ else
 end
 HOME = 1
 
-gg.toast("Imei 1 :862589030271877!")
-gg.toast("Imei 2 :862589030271869!")
 
 
 gg.alert("⭐ENTER PASSWORD⭐")
@@ -52,6 +50,9 @@ else
   wrong()
 end
 HOME = 1
+
+gg.alert("Imei 1 :862589030271877!")
+gg.alert("Imei 2 :862589030271869!")
 
 gg.alert("⭐DEVICE VERIVIED VVIP MEMBER⭐")
 
