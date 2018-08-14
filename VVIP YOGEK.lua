@@ -69,11 +69,11 @@ function HOME()
     "❎ EXIT SCRIPT ❎",
     "☎️ CONTACT US ☎️"
   }, nil, [[
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
   ⭐⭐⭐⭐VVIP PUBGMS 0.8.3⭐⭐⭐⭐
       ⭐️VVIP MEMBER YOGEK BARBAR⭐️
    ⭐️MODED BY : @KopralDjonoPUBGMC⭐️
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖]])
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖]])
   if HM == 1 then
     WnC()
   end
