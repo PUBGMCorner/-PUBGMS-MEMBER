@@ -164,7 +164,7 @@ function WnC()
   end
 end
 
-function WH6()
+function OCL()
   gg.clearResults()
   gg.setRanges(gg.REGION_BAD)
   gg.searchNumber("4,141D;4.7408155e21;-5.5693206e-40;4.814603e21;3.7615819e-37;2:", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
@@ -185,7 +185,6 @@ function WH6()
   gg.editAll("120", gg.TYPE_FLOAT)
   gg.toast("100%")
   gg.toast("Wallhack 435/425 V2 Activated")
-end
 
   gg.clearResults()
   gg.setRanges(gg.REGION_BAD)
