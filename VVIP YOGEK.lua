@@ -51,8 +51,8 @@ else
 end
 HOME = 1
 
-gg.alert("⭕Imei 1 : 862589030271877!⭕
-	  ⭕Imei 2 : 862589030271869⭕")
+gg.alert(" ⭕Imei 1 : 862589030271877!⭕ ")
+gg.alert(" ⭕Imei 2 : 862589030271869!⭕ ")
 
 gg.alert("⭐DEVICE VERIVIED VVIP MEMBER⭐")
 
@@ -64,13 +64,14 @@ function HOME()
     "⏺️WALLHACK & BODY COLOR⏺️",
     "⏺️LOBBY HACK MENU⏺️",
     "⏺️IN GAME MENU⏺️",
-	"⭕ ONE CLICK LANDED ⭕",
-	"🌟️Info & Update Log🌟️",
+    "⭕ ONE CLICK LANDED ⭕",
+    "🌟️Info & Update Log🌟️",
     "❎EXIT SCRIPT❎",
     "☎️ CONTACT US ☎️"
   }, nil, [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ⭐⭐⭐⭐VVIP PUBGMS 0.8.3⭐⭐⭐⭐
+  ⭐️VVIP MEMBER IamYogekBARBAR⭐️
  ⭐️MODED BY : @KopralDjonoPUBGMC⭐️
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖]])
   if HM == 1 then
