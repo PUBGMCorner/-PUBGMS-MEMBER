@@ -56,7 +56,7 @@ gg.alert(" ⭕ Imei 2 : 862589030271869! ⭕ ")
 
 gg.alert("⭐ DEVICE VERIVIED VVIP MEMBER ⭐")
 
-gg.alert("📣 WELCOME VVIP IamYogekBARBAR 📣")
+gg.alert("📣 WELCOME BACK IamYogekBARBAR 📣")
 
 HOME = 1
 function HOME()
@@ -71,7 +71,7 @@ function HOME()
   }, nil, [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
   ⭐⭐⭐⭐VVIP PUBGMS 0.8.3⭐⭐⭐⭐
-     ⭐️VVIP MEMBER IamYogekBARBAR⭐️
+      ⭐️VVIP MEMBER YOGEK BARBAR⭐️
    ⭐️MODED BY : @KopralDjonoPUBGMC⭐️
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖]])
   if HM == 1 then
