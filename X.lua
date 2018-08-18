@@ -1055,7 +1055,8 @@ function CARM3()
   gg.getResults(100)
   gg.editAll("99996", gg.TYPE_FLOAT)
   gg.clearResults(1314520)
-  gg.toast("JEEP MAX SPEED ACTIVATED") 
+  gg.toast("JEEP MAX SPEED ACTIVATED")
+  end
 function CARM2()
   gg.setRanges(gg.REGION_ANONYMOUS)
   gg.clearResults()
@@ -1575,7 +1576,7 @@ function MN6()
   gg.searchNumber("1;35;443;0.5;55;0.57357645035", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
   gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
   gg.getResults(850)
-  print("Replaced: ", gg.editAll("0.3", gg.TYPE_FLOAT))
+  print("Replaced: ", gg.editAll("0.7", gg.TYPE_FLOAT))
   gg.clearResults(850)
   gg.toast("High Jump Active")
 end
@@ -1622,7 +1623,7 @@ function MC()
 end
 function INFO()
 gg.alert("⛔ WARNING : Don't Combine Any Headshot Hacks with Any Magic Bullet Hacks")
-gg.alert("💯 Fixed : HEAD AIMBOT - MAGIC BULLET PSYCHO MAGIC BULLET PRO/n VISUAL LIFT /nJEEP MAX SPEED /n AIMBOT HEAD Added")
+gg.alert("💯 Fixed : HEAD AIMBOT - MAGIC BULLET PSYCHO-MAGIC BULLET PRO-VISUAL LIFT-JEEP MAX SPEED-AIMBOT HEAD Added")
 end  
 function EXIT()
   print(os.date("PUBG MOBILE VVIP SCRIPT"))
@@ -1641,4 +1642,4 @@ while true do
   if HOMEDM == 1 then
     HOME()
   end
-end
+  end
