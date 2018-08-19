@@ -1041,22 +1041,12 @@ function CARM1()
 end
 function CARM3()
   gg.clearResults()
-  gg.setRanges(gg.REGION_ANONYMOUS) 
-  gg.searchNumber("0.64705884457", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-  gg.searchNumber("0.64705884457", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-  gg.getResults(100)
-  gg.editAll("-999999999", gg.TYPE_FLOAT)
-  gg.clearResults()
-  gg.toast("BE PATIENCE 50%")
-  gg.clearResults()
   gg.setRanges(gg.REGION_ANONYMOUS)
-  gg.searchNumber("150;85;45;-129;-85", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-  gg.searchNumber(45, gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-  gg.getResults(100)
-  gg.editAll("99996", gg.TYPE_FLOAT)
-  gg.clearResults(1314520)
-  gg.toast("JEEP MAX SPEED ACTIVATED")
-  end
+  gg.searchNumber("0.647058857", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(10)
+  gg.editAll("-999", gg.TYPE_FLOAT)
+  gg.toast("Jeep Acceleration (Reverse Gear) Activated!")
+end
 function CARM2()
   gg.setRanges(gg.REGION_ANONYMOUS)
   gg.clearResults()
@@ -1484,7 +1474,7 @@ function Z4()
 end
  function MAN()
   MNN = gg.multiChoice({
-    "1.⏺️SpeedHack VIP💵",
+    "1.⏺️fAST RUN & JUMP VIP💵",
     "2.⏺️Fast switch ",
     "3.⏺️Fly ",
     "4.⏺️Visual Lift ",
@@ -1527,15 +1517,14 @@ end
 end
 function MN1()
   gg.clearResults()
-  gg.searchNumber('999', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-  gg.clearResults()
-  gg.setRanges(gg.REGION_CODE_APP)
-  gg.searchNumber('10.90734863281;0.00999999978', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-  gg.searchNumber('10.9073486328', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-  gg.getResults(300)
-  gg.editAll('10.211', gg.TYPE_FLOAT)
-  gg.toast('Speed Hack Activated')
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("0;7.0064923e-45;1;100;1;2,500,000,000.0;0.10000000149;88", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("2", gg.TYPE_FLOAT)
+  gg.toast("Fast Walk & Long Jump Activated")
 end
+
 function MN2()
   gg.clearResults()
   gg.searchNumber('0.83333331347;1;0.83333331347::321', gg.TYPE_FLOAT,false,gg.SIGN_EQUAL, 0, -1)
@@ -1594,7 +1583,7 @@ function MN8()
   gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_FLOAL, 0, -1)
   gg.getResults(50)
   gg.editAll("0.6", gg.TYPE_FLOAT)
-  gg.toast("Small Player Activated")
+  gg.toast("Small Character Activated!")
 end
 function MC()
   KR = gg.choice({
