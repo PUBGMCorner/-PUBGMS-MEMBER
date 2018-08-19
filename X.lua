@@ -183,7 +183,7 @@ function OCL()
   gg.searchNumber("304.00009155273;3.7615819e-37;2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
   gg.searchNumber("2", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
   gg.getResults(30)
-  gg.editAll("120", gg.TYPE_FLOAT)
+  gg.editAll("100", gg.TYPE_FLOAT)
   gg.toast("WallHack Global Activated")
 
   gg.clearResults()
