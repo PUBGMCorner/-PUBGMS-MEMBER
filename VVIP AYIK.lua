@@ -223,7 +223,6 @@ function OCL()
   gg.editAll("2", gg.TYPE_FLOAT)
   gg.toast("Fast Walk & Long Jump Activated")
 end
-end
 
 function C1()
   gg.clearResults()
