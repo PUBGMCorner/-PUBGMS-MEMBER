@@ -230,8 +230,6 @@ gg.toast("Wallhack Snapdragon 660 Active!")
   gg.getResults(100)
   gg.editAll("0", gg.TYPE_FLOAT)
   gg.toast("No Grass Activated")
-	
-	
 end
 
 function C1()
@@ -433,6 +431,7 @@ gg.getResults(30)
 gg.editAll("120", gg.TYPE_FLOAT)
 gg.clearResults()
 gg.toast("Wallhack Snapdragon 636 Active!")
+end
 function WH2()
   gg.clearResults()
   gg.setRanges(gg.REGION_BAD)
