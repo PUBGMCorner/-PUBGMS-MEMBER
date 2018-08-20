@@ -433,6 +433,7 @@ gg.setRanges(gg.REGION_BAD)
   gg.editAll("80", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("Wallhack HDR Activated!")
+end
 function WH2()
   gg.clearResults()
   gg.setRanges(gg.REGION_BAD)
