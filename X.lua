@@ -182,8 +182,8 @@ gg.toast("Wallhack Snapdragon 636 Active!")
   gg.searchNumber("32769", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
   gg.getResults(10)
   gg.editAll("32777", gg.TYPE_DWORD)
-  gg.clearResults()
   gg.toast("Body Green Activated")
+
 	
   gg.clearResults()
   gg.setRanges(gg.REGION_ANONYMOUS)
