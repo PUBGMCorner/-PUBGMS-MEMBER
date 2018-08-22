@@ -194,15 +194,6 @@ function OCL()
   gg.editAll("32777", gg.TYPE_DWORD)
   gg.toast("Body Green Activated")
 
-	
-  gg.clearResults()
-  gg.setRanges(gg.REGION_ANONYMOUS)
-  gg.searchNumber("0;7.0064923e-45;1;100;1;2,500,000,000.0;0.10000000149;88", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-  gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
-  gg.getResults(100)
-  gg.editAll("2", gg.TYPE_FLOAT)
-  gg.toast("Fast Walk & Long Jump Activated")
- 
   gg.clearResults()
   gg.setRanges(gg.REGION_BAD)
   gg.clearResults()
